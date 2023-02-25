@@ -9,10 +9,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
-  }
-  
-  .navbar-brand a {
-  color: #ffffff;
+    color: #ffffff;
+    font-size: x-large;
+
   }
   
   .form-wrapper,

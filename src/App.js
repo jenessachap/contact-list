@@ -1,5 +1,5 @@
 import React from "react";
-import { Nav, Navbar, Container, Row, Col, Button, Modal } from "react-bootstrap";
+import { Navbar, Container, Button, Modal } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.css";
 import "./App.css";
 import CreateContact from "./Components/createContact";
@@ -33,11 +33,7 @@ const App = () => {
       <header className="App-header">
         <Navbar bg="dark" variant="dark">
           <Container className="navbar">
-            <Navbar.Brand>
               Contact List
-            </Navbar.Brand>
-            <Nav className="justify-content-end">
-            </Nav>
           </Container>
         </Navbar>
       </header>
