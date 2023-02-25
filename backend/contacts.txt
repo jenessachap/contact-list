@@ -1,0 +1,5 @@
+{"name": "Blake", "email": "Blake@gmail.com", "address": "1759 Diamond Springs Ln"}
+{"name": "Jenessa", "email": "Jenessa@gmail.com", "address": "1759 Diamond Springs Ln"}
+{"name": "Boondi", "email": "Boondi@gmail.com", "address": ""}
+{"name": "Daisy Mae", "email": "Daisey@gmail.com", "address": "Tempe, AZ"}
+{"name": "Ellie Mae", "email": "Ellie@gmail.com", "address": ""}

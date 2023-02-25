@@ -1,0 +1,49 @@
+  .contact-list-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2em
+  }
+  
+  .navbar.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .navbar-brand a {
+  color: #ffffff;
+  }
+  
+  .form-wrapper,
+  .table-wrapper {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 1em;
+  }
+  .form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+   
+  }
+  .contact-list-container{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    max-width: 100%;
+  }
+  .contact-card {
+    display: flex;
+    flex-direction: row;
+    min-width: 800px;
+  }
+
+  .form-input {
+    margin: 0.5em;
+  }
+  .table-wrapper {
+  max-width: 700px;
+  }
+
+  
