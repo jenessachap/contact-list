@@ -7,6 +7,7 @@ A stunning and sleek contact list which you can add to.
 To get started install the npm packages for both backend and root. Then start the program!
 
 ```bash
+cd contact-list
 npm install
 ```
 
